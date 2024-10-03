@@ -17,7 +17,7 @@ El encriptado funciona en 3 pasos:
 Para el desencriptado funciona el mismo proceso pero a la inversa, decodificando y traduciendo al lenguaje del humano. 😁
 
 <h3>¿Cómo puedo probar el programa?</h3>
-El programa se encuentra en su versión .exe, para que cualquiera lo pruebe. El programa es únicamente con fines académicos y es de uso libre. 
+El programa se encuentra en su versión .exe, para que cualquiera lo pruebe. El programa es únicamente con fines académicos y de uso libre. 
 
 <h3>Galeria del programa</h3>
 
