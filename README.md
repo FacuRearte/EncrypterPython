@@ -21,5 +21,7 @@ El programa se encuentra en su versión .exe, para que cualquiera lo pruebe. El 
 
 <h3>Galeria del programa</h3>
 ![home](https://github.com/user-attachments/assets/e8fbe042-a192-4996-a6d3-5d6b004f013a)
+
 ![encrypt](https://github.com/user-attachments/assets/8bd2e4c8-38c4-4666-b3c9-c516cb149f01)
+
 ![desencrypt](https://github.com/user-attachments/assets/8c20a413-163e-444b-9ee3-093e2038eaf5)
