@@ -20,8 +20,6 @@ Para el desencriptado funciona el mismo proceso pero a la inversa, decodificando
 El programa se encuentra en su versión .exe, para que cualquiera lo pruebe. El programa es únicamente con fines académicos y es de uso libre. 
 
 <h3>Galeria del programa</h3>
-![home](https://github.com/user-attachments/assets/e8fbe042-a192-4996-a6d3-5d6b004f013a)
-
 ![image](https://github.com/user-attachments/assets/7d019ef2-38c8-40e3-bb6e-c1a42ab0764d)
 
 ![encrypt](https://github.com/user-attachments/assets/8bd2e4c8-38c4-4666-b3c9-c516cb149f01)
