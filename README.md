@@ -5,7 +5,7 @@ Esta hecho con las siguientes librerias: Cryptography Fernet, hashlib y con base
 Es un programa ejecutable en Windows, el cual le pide al usuario una clave aleatoria para encriptacion y posterior desencriptacion.
 
 <h3>¿Cuanta complejidad de seguridad posee la encriptación del programa?</h3>
-La encriptacion realizada por el programa es de alta seguridad ya que tiene hasta un maximo de 18 BILLONES de posibilidades.
+La encriptacion realizada por el programa es de alta seguridad ya que tiene hasta un maximo de 18 MIL MILLONES de posibilidades.
 
 <h3>¿Cómo funciona el encriptado?</h3>
 El encriptado funciona en 3 pasos:
